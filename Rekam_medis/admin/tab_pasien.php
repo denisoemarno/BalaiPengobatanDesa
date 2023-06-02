@@ -271,7 +271,7 @@ if(isset($_GET['hapus'])){
                        <th scope="col">Nik</th>
                        <th scope="col">Kelamin</th>
                        <th scope="col">Alamat</th>
-                       <th scope="col">Nomor</th>
+                       <th scope="col">Telepon</th>
                        <th scope="col">Aksi</th>
 
                      </tr>

@@ -235,7 +235,7 @@ error_reporting(0);
           <P><b>Alamat Pasien:</b></p>
           <input class="form-control" type="text" name='alamat' value="<?php echo $d['alamat']; ?>" placeholder="Alamat Baru..." required>
 
-          <P><b>Nomor Pasien:</b></p>
+          <P><b>Telepon Pasien:</b></p>
           <input class="form-control" type="text" name='nomor' value="<?php echo $d['nomor']; ?>" placeholder="Nomor Baru..." required>
 
 

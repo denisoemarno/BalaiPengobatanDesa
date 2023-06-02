@@ -210,8 +210,8 @@ include '../config/koneksi.php';
               <div class="row">
 
                 <div class="col-sm-4">
-              <label>Nick:</label>
-              <input class="form-control form-control-sm" type="number" placeholder="Nick Pasien..." aria-label=".form-control-sm example" name='nick' required>
+              <label>Nik:</label>
+              <input class="form-control form-control-sm" type="number" placeholder="Nik Pasien..." aria-label=".form-control-sm example" name='nick' required>
               </div>
 
                 <div class="col-sm-4">
@@ -244,7 +244,7 @@ include '../config/koneksi.php';
 
 
               <div class="col-sm-4">
-                <label>nomor:</label>
+                <label>Telepon:</label>
                 <input class="form-control form-control-sm" type="number" placeholder="Nomor Handphone Pasien..." aria-label=".form-control-sm example" name='nomor' required>
               </div>
 
